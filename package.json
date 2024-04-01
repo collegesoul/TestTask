@@ -1,0 +1,16 @@
+{
+  "name": "pipedrive",
+  "version": "1.0.0",
+  "description": "api to pipedrive to create a deal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sotonye",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "pipedrive": "^22.5.0"
+  }
+}
